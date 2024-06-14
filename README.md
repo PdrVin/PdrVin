@@ -8,6 +8,7 @@
 ## **💁🏽‍♂️About me**
 - 👋 Olá, Meu nome é Pedro Crescencio.
 - ⚡ Estou interessado em Programação, Análise de Dados e Design Gráfico.
+- 📚 Formando no curso de Gestão da Tecnologia da Informação.
 - 💻 Estou atualmente aprendendo Python AI Backend Development.
 
 **_Suporte Técnico | Analista de Dados | Python | Power BI | Canva | Microsoft Office Pack_**
