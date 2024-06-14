@@ -10,9 +10,9 @@
 - ⚡ Estou interessado em Programação, Análise de Dados e Design Gráfico.
 - 💻 Estou atualmente aprendendo Python AI Backend Development.
 
-**_Suporte Técnico | Analista de Dados | Python | Power BI | Canva | Microsoft Office_**
+**_Suporte Técnico | Analista de Dados | Python | Power BI | Canva | Microsoft Office Pack_**
 
-## **📋Languages**
+## **📋Languages & Tools**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%23239120.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
