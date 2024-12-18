@@ -10,7 +10,7 @@
 - ⚡ Estou interessado em Programação, Análise de Dados e Design Gráfico.
 - 📚 Formado em Gestão da Tecnologia da Informação.
 
-**_Suporte Técnico | Analista de Dados | Python | Power BI | Canva | Microsoft Office Pack_**
+**_Suporte Técnico | Análise de Dados | Python | Power BI | Canva | Microsoft Office Pack_**
 
 ## **📋Languages & Tools**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
