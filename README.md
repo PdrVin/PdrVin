@@ -1,5 +1,5 @@
 # [Pedro V. Medeiros Crescencio](https://www.linkedin.com/in/pedro-crescencio/)
-**( _Análise de Dados | Python | Power BI | Canva | Suporte Técnico | Microsoft Office Pack_ )**
+**( _Análise de Dados | Python | C# | Power BI | Canva | Suporte Técnico | Microsoft Office Pack_ )**
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/PdrVin)
 [![GitHub](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-crescencio/)
